@@ -14,11 +14,6 @@ In this project, we explore text clustering techniques to group documents based 
 Please refer to the `requirements.txt` file for specific version details of the libraries.
 
 ## Installation
-To install the required dependencies, run:
- the domain of Natural Language Processing (NLP) that aims to identify and attribute written texts to their respective authors based on linguistic patterns and style. This task is very intricate due to diverse writing styles, language nuances, and vocabulary differences exhibited by various authors. Despite its intricacies, authorship attribution has played a crucial role in identifying anonymous or disputed texts, attributing authorship to historical documents, and even unmasking authors in the digital realm.
-
-# Requirements
-libraries used: requests, nltk, pandas, numpy
 (Check the requirements.txt file for version details)
 
 # Downloading the dependencies
