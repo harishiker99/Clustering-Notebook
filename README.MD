@@ -1,6 +1,4 @@
-# Authorship Attribution using ML
-
-Authorship Attribution is a task within# Text Clustering with KMeans, Hierarchical, and EM Clustering
+# Text Clustering with KMeans, Hierarchical, and EM Clustering
 
 Authorship Attribution is a task within the domain of Natural Language Processing (NLP) that aims to identify and attribute written texts to their respective authors based on linguistic patterns and style. This task is very intricate due to diverse writing styles, language nuances, and vocabulary differences exhibited by various authors. Despite its intricacies, authorship attribution has played a crucial role in identifying anonymous or disputed texts, attributing authorship to historical documents, and even unmasking authors in the digital realm.
 
