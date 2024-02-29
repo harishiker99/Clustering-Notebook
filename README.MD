@@ -26,10 +26,8 @@ pip install -r requirements.txt
 
 ## Usage
 1. Ensure all dependencies are installed.
-2. Run the Jupyter Notebook by executing:
-
-
 # Running the jupyter notebook
+2. Run the Jupyter Notebook by executing: ClusteringAssignment_Group25.ipynb
 3. Navigate to the notebook file for text clustering.
 
 ## Text Clustering Techniques
