@@ -1,4 +1,3 @@
-[
 # Authorship Attribution using ML
 
 Authorship Attribution is a task within# Text Clustering with KMeans, Hierarchical, and EM Clustering
